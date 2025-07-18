@@ -98,8 +98,27 @@ During training, the model achieved **100% accuracy on the training set** by the
 - 🧪 **Data Augmentation** (rotation, flipping, zooming, etc.)
 - 🧱 **Regularization Techniques**: Dropout, L2 regularization
 - 🧠 **Fine-tuning** the deeper layers of MobileNetV2
+
+
+
+
+🔗 Complete Project Files
+📁 To access the complete project files including datasets, models, and resources, follow the link below:
+
+👉 Click here to open the full project folder on Google Drive
 - 📊 **Class balancing** if some categories have fewer samples
 - 🖼️ **Increasing dataset size** with more labeled plastic images
 
 > These steps will help the model learn more generalizable patterns and improve real-world performance.
 
+
+
+
+## 📎 Complete Project Access
+
+[🔗 **Click here to access the full project folder on Google Drive**](https://drive.google.com/drive/folders/1LMweXUgtUzd-HhUUUxyuC-hadok8pZ5-?usp=sharing)
+
+> This folder contains:
+> - Training images
+> - The final `.h5` model
+> - Related resources
